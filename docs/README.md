@@ -43,7 +43,7 @@ $ docker pull ethereum/solc:0.5.8
 In the working directory of your choice, clone the latest version of the colonyNetwork repository:
 
 ```
-$ git clone https://github.com/JoinColony/colonyNetwork.git
+$ git clone https://github.com/KsorK0505/colonyNetwork.git
 ```
 
 Move into the directory and install dependencies:
